@@ -1,0 +1,14 @@
+
+j
+java:S1192"TDefine a constant instead of duplicating this literal "Â§7Â§lTest dungeons" 4 times.(ÃÞÏÒ
+M
+java:S1874"7Remove this use of "createInventory"; it is deprecated.(àÊã­
+K
+java:S1874"5Remove this use of "getItemInHand"; it is deprecated.(ÂØÙ‚
+c	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¯²ž
+Q
+java:S1874$"6Remove this use of "setDisplayName"; it is deprecated.(¬­ô©ûÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'org.bukkit.Location'.(Æ”øÊûÿÿÿÿ
+f
+java:S1128	"KRemove this unused import 'org.bukkit.event.inventory.InventoryClickEvent'.(Õæí˜ýÿÿÿÿ

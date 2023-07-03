@@ -1,0 +1,19 @@
+
+u
+java:S11928"XDefine a constant instead of duplicating this literal "Â§7Â§lTest ÑĞ°Ğ±Ğ»Ñ!" 11 times.(­ü›î8û¥Óã1
+}
+java:S1192$"`Define a constant instead of duplicating this literal "Â§4ĞœĞ°Ğ³Ğ°Ğ·Ğ¸Ğ½ ÑĞ°Ğ±Ğ»ĞµĞ¹!" 3 times.(‰Á¾Ã8û¥Óã1
+Q
+java:S1066!"/Merge this if statement with the enclosing one.(‡ä Ïúÿÿÿÿ8ü¥Óã1
+L
+java:S10665"/Merge this if statement with the enclosing one.(“ú±Ö8ü¥Óã1
+c
+java:S6201 "FReplace this instanceof check and cast with 'instanceof Player player'( ïÅ³8š¦Óã1
+R
+java:S1874$"5Remove this use of "setCustomName"; it is deprecated.(‰Á¾Ã8›¦Óã1
+Y
+java:S18742"7Remove this use of "createInventory"; it is deprecated.(»¥ªÖøÿÿÿÿ8¦Óã1
+X
+java:S1874K"6Remove this use of "setDisplayName"; it is deprecated.(¬­ô©ûÿÿÿÿ8¢¦Óã1
+Q
+java:S1874O"/Remove this use of "setLore"; it is deprecated.(ÜàÏ—üÿÿÿÿ8£¦Óã1

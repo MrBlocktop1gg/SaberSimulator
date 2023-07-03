@@ -1,0 +1,7 @@
+name: SaberSimulatorAid
+version: '${version}'
+main: mrblock.sabersimulatoraid.SaberSimulatorAid
+api-version: '1.19'
+commands:
+  Npc_shop: {permission: op, permission-message: "Вы мужлан, у вас нет прав!"}
+  Npc_classes: {permission: op, permission-message: "Вы мужлан, у вас нет прав!"}

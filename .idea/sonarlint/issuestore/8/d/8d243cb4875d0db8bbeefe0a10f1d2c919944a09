@@ -1,0 +1,18 @@
+
+x
+java:S1192%"bDefine a constant instead of duplicating this literal "Â§4ĞœĞ°Ğ³Ğ°Ğ·Ğ¸Ğ½ ĞºĞ»Ğ°ÑÑĞ¾Ğ²!" 3 times.(Š””Š
+J
+java:S1066""/Merge this if statement with the enclosing one.(”«…ûÿÿÿÿ
+J
+java:S10665"/Merge this if statement with the enclosing one.(ªÓğÍıÿÿÿÿ
+\
+java:S6201!"FReplace this instanceof check and cast with 'instanceof Player player'( ïÅ³
+K
+java:S1874%"5Remove this use of "setCustomName"; it is deprecated.(Š””Š
+R
+java:S18742"7Remove this use of "createInventory"; it is deprecated.(¤Ğî şÿÿÿÿ
+Q	java:S1258"<This block of commented-out lines of code should be removed.(Æ Õ
+Q
+java:S1874D"6Remove this use of "setDisplayName"; it is deprecated.(¬­ô©ûÿÿÿÿ
+J
+java:S1874H"/Remove this use of "setLore"; it is deprecated.(ÜàÏ—üÿÿÿÿ
